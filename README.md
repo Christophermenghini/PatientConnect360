@@ -187,6 +187,8 @@ Communicate with care team
 ### Clinician
 View patient list
 Manage appointments
+Capture brief visit notes linked to each scheduled appointment
+View detailed appointment schedules and visit information, with a placeholder panel for the Smart Assistant
 Update patient records
 Communicate with patients
 
@@ -198,6 +200,7 @@ Analytics and reporting
 
 ### New Agency Profile Registration Flow
 For every company to setup their own admin page
+
 
 
 
